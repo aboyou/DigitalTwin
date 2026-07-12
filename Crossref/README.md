@@ -1,1 +1,1 @@
-Hi
+یکی از منابع قابل استفاده برای استخراج مقالات، Crossref است که به صورت API می‌توان از آن استفاده کرد. با استفاده از اسکریپت زیر، اطلاعات تمامی مقالات حاوی کلمه "digital twin" را استخراج می‌کنیم. [لینک](https://github.com/aboyou/DigitalTwin/blob/main/Crossref/croosref_fetch.rar)
