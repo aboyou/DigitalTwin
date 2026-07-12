@@ -167,11 +167,11 @@
 # space
 <center><img src="https://github.com/aboyou/DigitalTwin/blob/main/Crossref/images/articles_per_year_space.png"></center>
 
-# Sparce
-<center><img src="https://github.com/aboyou/DigitalTwin/blob/main/Crossref/images/articles_per_year_Sparce.png"></center>
+# Sparse
+<center><img src="https://github.com/aboyou/DigitalTwin/blob/main/Crossref/images/articles_per_year_Sparse.png"></center>
 
 # state space
-<center><img src="https://github.com/aboyou/DigitalTwin/blob/main/Crossref/images/articles_per_year_state_apce.png"></center>
+<center><img src="https://github.com/aboyou/DigitalTwin/blob/main/Crossref/images/articles_per_year_state_space.png"></center>
 
 # transformer
 <center><img src="https://github.com/aboyou/DigitalTwin/blob/main/Crossref/images/articles_per_year_transformer.png"></center>
