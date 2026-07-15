@@ -1,3 +1,11 @@
+```bash
+.venv\Scripts\python app.py "digital_twin_2020_2026.db" --output "resultsLight" --min-author-papers 2 --min-edge-weight 2 --static-network-top-nodes 350 --interactive-network-top-nodes 3000
+```
+
+```bash
+.venv\Scripts\python.exe -X utf8 rebuild_visuals.py "resultsLight" --static-network-top-nodes 350 --interactive-network-top-nodes 3000
+```
+
 یکی از منابع قابل استفاده برای استخراج مقالات، Crossref است که به صورت API می‌توان از آن استفاده کرد. با استفاده از اسکریپت زیر، اطلاعات تمامی مقالات حاوی کلمه "digital twin" را استخراج می‌کنیم. [لینک](https://github.com/aboyou/DigitalTwin/blob/main/Crossref/croosref_fetch.rar)
 
 سپس باز هم بر روی ستون title وجود عبارت "digital twin" را در نظر می‌گیریم و سال‌ها را هم بین 2020 تا 2026 مدنظر قرار می‌دهیم. شاهد آن هستیم که 17585 مقاله شامل عبارت "digital twin" در این پایگاه ثبت شده است.
