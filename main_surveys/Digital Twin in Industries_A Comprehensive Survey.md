@@ -4,8 +4,6 @@
 > **نویسندگان:** Md Bokhtiar Al Zami، Shaba Shaon، Vu Khanh Quy و Dinh C. Nguyen  
 > **نشریه:** IEEE Access، جلد 13، سال 2025  
 > **DOI:** 10.1109/ACCESS.2025.3551532  
-> **نوع متن:** بازنویسی فارسیِ ساختاریافته و مناسب برای Git/GitHub
-
 ---
 
 ## چکیده
